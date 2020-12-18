@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StudentList>
+    <Student>
+        <Surname>Ivanov</Surname>
+        <Name>Ivan</Name>
+        <MiddleName>Ivanovich</MiddleName>
+        <Course>2</Course>
+        <Faculty>IEF</Faculty>
+        <Group>672301</Group>
+        <AverageScore>8.7</AverageScore>
+    </Student>
+    <Student>
+        <Surname>Petrova</Surname>
+        <Name>Anna</Name>
+        <MiddleName>Nikolaevna</MiddleName>
+        <Course>3</Course>
+        <Faculty>FKP</Faculty>
+        <Group>510101</Group>
+        <AverageScore>9.0</AverageScore>
+    </Student>
+    <Student>
+        <Surname>Nesterov</Surname>
+        <Name>Pavel</Name>
+        <MiddleName>Ivanovich</MiddleName>
+        <Course>3</Course>
+        <Faculty>FKP</Faculty>
+        <Group>510101</Group>
+        <AverageScore>6.5</AverageScore>
+    </Student>
+</StudentList>
